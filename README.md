@@ -7,5 +7,5 @@ a GooglePlay crawler based on Scrapy
 * python >= 2.6.9
 
 ###Running:
-cd GooglePlaySpider
+cd GooglePlaySpider<br>
 scrapy crawl googleplayspider -a keywords="wechat"
